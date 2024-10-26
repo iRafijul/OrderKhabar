@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Khabar</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #333;
+            margin: 0.5em 0;
+        }
+        p {
+            font-size: 1.2em;
+            color: #666;
+            margin: 10px 0;
+        }
+        a {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+            transition: background-color 0.3s;
+        }
+        a:hover {
+            background-color: #0056b3;
+        }
+        img {
+            margin-top: 20px;
+            width: 80%;
+            max-width: 200px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Order Khabar</h1>
+    <p>আমাদের কোম্পানি "Order Khabar" একটি খাদ্য ডেলিভারি সেবা প্রদান করে, যা আপনাদের নিকটবর্তী হোটেল ও রেস্টুরেন্ট থেকে খাবার আপনার বাড়িতে বা অফিসে পৌঁছে দেয়। আপনি আমাদের মোবাইল অ্যাপ্লিকেশন থেকে সহজেই আপনার পছন্দের রেস্টুরেন্ট বা হোটেল থেকে আপনার পছন্দের খাবার অর্ডার করতে পারবেন। আমরা খুব শীঘ্রই "পাপ্পু দা ধাবা", "তাসতির" এবং অন্যান্য জনপ্রিয় রেস্টুরেন্টের খাবার সরবরাহ করতে শুরু করবো। আপনাদের নিকট খুব তাড়াতাড়ি নতুন পরিষেবা গুলি নিয়ে আসতে চলেছি। আমাদের সেবার মাধ্যমে আপনাদের খাদ্য চাহিদা পূরণ করার জন্য আমরা প্রতিশ্রুতিবদ্ধ।</p>
+    <p>Mobile: +91 9867704266</p>
+    <p>Email: rsenterprises.nic@gmail.com</p>
+    <a href="https://example.com/download" target="_blank">Download App</a>
+    <img src="https://example.com/qrcode.png" alt="QR Code">
+</body>
+</html>
